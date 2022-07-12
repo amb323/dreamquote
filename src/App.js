@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './neuro.jpg';
 import './App.css';
 import quote from './data.json'
 

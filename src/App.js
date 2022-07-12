@@ -4,8 +4,6 @@ import quote from './data.json'
 
 function App() {
   const x = Math.floor(Math.random() * 10);
-  console.log(x);
- 
   return (
       <>
       <h1 className="title">Dream Quote</h1>
